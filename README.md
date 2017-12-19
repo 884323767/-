@@ -116,8 +116,8 @@
  - [谈谈一些有趣的CSS题目系列][83]
  - [CSS居中：完全指南（译）][84]
  - [业务代码中可用的css小技巧][85]
- - [You Don't Know CSS（一）][86]
- - [You Don't Know CSS（二）][87]
+~~- - [You Don't Know CSS（一）][86]~~-
+~~-- [You Don't Know CSS（二）][87]~~-
 
 ### jQuery
 
